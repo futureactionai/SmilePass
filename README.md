@@ -1,4 +1,4 @@
-# 😊 SmilePass / SmileDetector
+# 😊 SmilePass 😊
 
 “Bir gülümseme bazen en güçlü ilaçtır — insanı fark eder.”
 

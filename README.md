@@ -39,19 +39,19 @@ Gözlük, maske gibi aksesuarlar bazen tespit doğruluğunu düşürebiliyor.
 
 Bu proje topluluk odaklıdır. Katkı vermek için:
 
-Yeni modeller (CNN, DLIB vb.) ekleyebilirsin.
+- Yeni modeller (CNN, DLIB vb.) ekleyebilirsin.
 
-Çok dilli mesaj sistemi geliştirebilirsin.
+- Çok dilli mesaj sistemi geliştirebilirsin.
 
-Farklı kullanım senaryoları önerebilirsin.
+- Farklı kullanım senaryoları önerebilirsin.
 
 ## 🚀 Kullanım
 
-SmileDetector plugin’ini AugeLab Studio’ya ekle.
+- SmileDetector plugin’ini AugeLab Studio’ya ekle.
 
-Kamera girişini bağla.
+- Kamera girişini bağla.
 
-Anlık yüz/gülümseme tespitini gör ve çıktıları kullan.
+- Anlık yüz/gülümseme tespitini gör ve çıktıları kullan.
 
 ## ❤️ Katkı
 
